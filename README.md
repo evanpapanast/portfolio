@@ -1,0 +1,34 @@
+# Evangelos Papanastasis – Portfolio
+
+**Live site: [evanpapanast.github.io/portfolio](https://evanpapanast.github.io/portfolio/)**
+
+Portfolio and CV page of Evangelos (Evan) Papanastasis, Senior BI and FP&A analyst in Vienna, Austria. 10+ years in finance reporting and analytics at IBM, Emarsys, WWF and MSD (Merck & Co.).
+
+Open to remote roles across the EU and hybrid roles in Vienna.
+
+## CVs
+
+| CV | Best for | Download |
+| --- | --- | --- |
+| Finance & Commercial Insights | FP&A, business controlling, finance business partnering, commercial analytics | [PDF](cv-finance-commercial-insights.pdf) |
+| Data & AI Transformation | BI lead, analytics, data governance, digital transformation | [PDF](cv-data-ai-transformation.pdf) |
+
+## Selected work
+
+- **Oncology 360 dashboard (MSD):** combined SAP, IQVIA and CRM data in Power BI, saving analysts at least two weeks of manual reporting.
+- **Global content-tagging hub (MSD):** one source of truth for all MSD entities, launched in 4 months.
+- **Budget vs actual for every HQ business unit (WWF):** daily-refreshed Tableau reporting on Oracle actuals and budget data, saving at least 3 days of work.
+- **Sales reporting automation (MSD):** replaced a manual Excel file with a daily Power BI report, then rolled Power BI out to 50+ users.
+
+## Contact
+
+- Email: [evanpapanast@gmail.com](mailto:evanpapanast@gmail.com)
+- LinkedIn: [evangelos-papanastasis](https://www.linkedin.com/in/evangelos-papanastasis-b7036920/)
+
+## Repository contents
+
+- `index.html` – the whole site in one file (no build step; fonts load from Google Fonts)
+- `cv-finance-commercial-insights.pdf`, `cv-data-ai-transformation.pdf` – the two CVs
+- `.nojekyll` – tells GitHub Pages to serve the files as they are
+
+To update a CV, upload a new PDF with the same file name. The site picks it up automatically.
