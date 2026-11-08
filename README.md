@@ -20,6 +20,14 @@ Open to remote roles across the EU and hybrid roles in Vienna.
 - **Budget vs actual for every HQ business unit (WWF):** daily-refreshed Tableau reporting on Oracle actuals and budget data, saving at least 3 days of work.
 - **Sales reporting automation (MSD):** replaced a manual Excel file with a daily Power BI report, then rolled Power BI out to 50+ users.
 
+## Experiments
+
+Side projects that show how I pick up new tools and use them end to end: Claude as an AI pair connected to Google BigQuery and GitHub, a data model and forecasts in BigQuery, automatic quality checks, and every change through a Git branch and pull request ([all experiments](https://evanpapanast.github.io/experiments/)). I choose the question and the data, check that the data is free to use, review the results and approve each change; Claude writes the code and prepares the pull requests.
+
+- **[Iowa spirits market](https://evanpapanast.github.io/experiments/liquor-market/dashboard/):** price vs volume, budget vs actual, BigQuery forecast and a 2027 budget builder.
+- **[What the ECB says, and what it does](https://evanpapanast.github.io/experiments/ecb-speeches/dashboard/):** do ECB speeches predict interest rate decisions?
+- **[AI adoption in EU enterprises](https://evanpapanast.github.io/experiments/ai-adoption-eu/dashboard/):** who uses AI in Europe, for what, and what holds the rest back.
+
 ## Contact
 
 - Email: [evanpapanast@gmail.com](mailto:evanpapanast@gmail.com)
