@@ -22,7 +22,7 @@ Open to remote roles across the EU and hybrid roles in Vienna.
 
 ## Experiments
 
-Side projects on public data, built with Google BigQuery, SQL and AI-assisted development ([all experiments](https://evanpapanast.github.io/experiments/)):
+Side projects that show how I pick up new tools and use them end to end: Claude as an AI pair connected to Google BigQuery and GitHub, a data model and forecasts in BigQuery, automatic quality checks, and every change through a Git branch and pull request ([all experiments](https://evanpapanast.github.io/experiments/)). I choose the question and the data, check that the data is free to use, review the results and approve each change; Claude writes the code and prepares the pull requests.
 
 - **[Iowa spirits market](https://evanpapanast.github.io/experiments/liquor-market/dashboard/):** price vs volume, budget vs actual, BigQuery forecast and a 2027 budget builder.
 - **[What the ECB says, and what it does](https://evanpapanast.github.io/experiments/ecb-speeches/dashboard/):** do ECB speeches predict interest rate decisions?
