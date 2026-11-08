@@ -39,4 +39,6 @@ Side projects that show how I pick up new tools and use them end to end: Claude 
 - `cv-finance-commercial-insights.pdf`, `cv-data-ai-transformation.pdf` – the two CVs
 - `.nojekyll` – tells GitHub Pages to serve the files as they are
 
-To update a CV, upload a new PDF with the same file name. The site picks it up automatically.
+- `cv-source/` – editable Word versions of both CVs
+
+To update a CV, edit its Word file in `cv-source/`, export it to PDF and upload the PDF with the same file name. The site picks it up automatically.
